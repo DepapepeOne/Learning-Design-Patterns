@@ -1,0 +1,5 @@
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\Duck\bin\Debug\Duck.dll
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\Duck\bin\Debug\Duck.pdb
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\Duck\obj\Debug\Duck.csproj.CoreCompileInputs.cache
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\Duck\obj\Debug\Duck.dll
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\Duck\obj\Debug\Duck.pdb

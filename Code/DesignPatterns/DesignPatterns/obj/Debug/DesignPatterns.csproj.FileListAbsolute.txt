@@ -1,0 +1,10 @@
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\bin\Debug\Duck.dll
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\bin\Debug\Duck.pdb
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CopyComplete
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

@@ -1,0 +1,10 @@
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\bin\Debug\ObserverPatternConsole.exe.config
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\bin\Debug\ObserverPatternConsole.exe
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\bin\Debug\ObserverPatternConsole.pdb
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\bin\Debug\ObserverPattern.dll
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\bin\Debug\ObserverPattern.pdb
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\obj\Debug\ObserverPatternConsole.csprojAssemblyReference.cache
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\obj\Debug\ObserverPatternConsole.csproj.CoreCompileInputs.cache
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\obj\Debug\ObserverPatternConsole.csproj.CopyComplete
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\obj\Debug\ObserverPatternConsole.exe
+C:\PengLin\Git\Learning-Design-Patterns\Code\DesignPatterns\ObserverPatternConsole\obj\Debug\ObserverPatternConsole.pdb
